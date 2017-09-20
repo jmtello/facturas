@@ -1,18 +1,15 @@
 package facturas;
 
-import java.util.Date;
-
 /**
  * FACTURAS 
- * @author jmtello
+ * @author proveedor2
  *
  */
 public class Factura {
 
-	private Date fecha;
-	
-	public String sayHello()
+	public static void proveedor2()
 	{
-		return "Hello";
+		//CAMBIO PROVEEDOR2
+	
 	}
 }
