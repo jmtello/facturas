@@ -7,24 +7,7 @@ package facturas;
  */
 public class Factura {
 
-	//CAMBIO A
-	
-	//Cambio C
-	//Cambio D
-	
-	//cambio I1	
-	//Cambio DROP
-	//cAMBIO EV1
-	
-	//Cambio ULTIMA HORA
-	
-	//Linea21
-	
-	//Linea23
-	
-	//Linea 25
-	
-	//Linea 27
+	//Linea 10
 	
 	
 }
