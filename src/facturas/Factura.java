@@ -10,6 +10,7 @@ import java.util.Date;
 public class Factura {
 
 	private Date fecha;
+	private String var1 = "Indra";
 	
 	public String sayHello()
 	{
