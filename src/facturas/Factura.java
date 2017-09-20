@@ -29,4 +29,9 @@ public class Factura {
 	
 		//Otro cambio de ialcazar, proveeedor 2
 	}
+	
+	public String getIndraName()
+	{
+		return "INDRA S.A.";
+	}
 }
