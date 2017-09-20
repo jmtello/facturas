@@ -30,5 +30,3 @@ public class Factura {
 		//Otro cambio de ialcazar, proveeedor 2
 	}
 }
-	
-
