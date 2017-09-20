@@ -10,4 +10,9 @@ import java.util.Date;
 public class Factura {
 
 	private Date fecha;
+	
+	public String sayHello()
+	{
+		return "Hello";
+	}
 }
