@@ -16,25 +16,7 @@ public class Factura {
 		return "Hello";
 	}
 	
-	public void printDate() {
-		
-		System.out.println(new Date());
-		
-	}
 	
-	public static void proveedor2()
-	{
-		//CAMBIO PROVEEDOR2
-	
-		//Otro cambio de ialcazar, proveeedor 2
-	}
-	
-	public void p2C2()
-	{
-		//CAMBIO PROVEEDOR2
-	
-		//Otro cambio de ialcazar, proveeedor 2
-	}
 }
 	
 
