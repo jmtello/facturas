@@ -9,7 +9,12 @@ import java.util.Date;
  */
 public class Factura {
 
-//	private Date fecha;
+	private Date fecha;
+	
+	public String sayHello()
+	{
+		return "Hello";
+	}
 	
 	public void printDate() {
 		
@@ -17,8 +22,4 @@ public class Factura {
 		
 	}
 	
-	public String sayHello()
-	{
-		return "Hello";
-	}
-}
+
