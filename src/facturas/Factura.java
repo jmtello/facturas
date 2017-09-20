@@ -30,6 +30,7 @@ public class Factura {
 		//Otro cambio de ialcazar, proveeedor 2
 	}
 	
+	
 	public String getIndraName2()
 	{
 		return "INDRA S.A.";
