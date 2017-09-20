@@ -20,5 +20,7 @@ public class Factura {
 	
 	//Linea21
 	
+	//Linea23
+	
 	
 }
