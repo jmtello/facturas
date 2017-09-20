@@ -12,8 +12,7 @@ public class Factura {
 	//Cambio C
 	//Cambio D
 	
-	//cambio I1
-	
+	//cambio I1	
 	
 	
 }
