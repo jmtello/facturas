@@ -14,15 +14,6 @@ public class Factura {
 	
 	//cambio I1	
 	//Cambio DROP
-	//cAMBIO EV1
-	
-	//Cambio ULTIMA HORA
-	
-	//Linea21
-	
-	//Linea23
-	
-	//Linea 25
 	
 	
 }
