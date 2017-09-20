@@ -1,5 +1,7 @@
 package facturas;
 
+import java.util.Date;
+
 /**
  * FACTURAS 
  * @author jmtello
@@ -7,4 +9,5 @@ package facturas;
  */
 public class Factura {
 
+	private Date fecha;
 }
