@@ -13,4 +13,12 @@ public class Factura {
 	
 		//Otro cambio de ialcazar, proveeedor 2
 	}
+	
+	public void printDate() {
+		
+		System.out.println(new Date());
+		
+	}
 }
+	
+
