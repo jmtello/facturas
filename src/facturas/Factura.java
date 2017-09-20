@@ -45,6 +45,5 @@ public class Factura {
 	{
 		return "PALOMARES S.A.";
 	}
-}
 	
 }
