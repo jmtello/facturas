@@ -13,4 +13,11 @@ public class Factura {
 	
 		//Otro cambio de ialcazar, proveeedor 2
 	}
+	
+	public void p2C2()
+	{
+		//CAMBIO PROVEEDOR2
+	
+		//Otro cambio de ialcazar, proveeedor 2
+	}
 }
