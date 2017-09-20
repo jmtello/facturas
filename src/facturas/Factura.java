@@ -41,4 +41,10 @@ public class Factura {
 		System.out.println("message2="+message);
 	}
 	
+		public String getDEVELOP()
+	{
+		return "PALOMARES S.A.";
+	}
+}
+	
 }
