@@ -17,5 +17,7 @@ public class Factura {
 	
 	//Cambio 03/10/2017
 	
+	//Segundo cambio 03/10
+	
 	
 }
