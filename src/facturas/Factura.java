@@ -13,6 +13,6 @@ public class Factura {
 	
 	//Cambio DROP OCTUBRE
 	
-	//cAMBIO VIERNES
+	//Cambio Martes
 	
 }
