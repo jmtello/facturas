@@ -9,5 +9,5 @@ package facturas;
  */
 public class DomiciliacionFactura
 {
-	//Cambio 4 proveedor2
+	//Cambio 4 proveedor2 
 }
