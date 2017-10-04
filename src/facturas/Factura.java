@@ -27,6 +27,8 @@ public class Factura {
 	
 	//Cambio 1  del 04/10
 	
+	//Cambio 1 proveedor2.2
+	
 	//Cambio 2  del 04/10
 	
 	
